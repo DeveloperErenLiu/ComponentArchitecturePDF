@@ -3,4 +3,4 @@
 
 
 
-![组件化架构PDF目录](https://github.com/DeveloperErenLiu/ComponentArchitectureBook/blob/master/QQ20171223-192032%402x.png)
+![组件化架构PDF目录](https://github.com/DeveloperErenLiu/ComponentArchitectureBook/blob/master/4F0D25D5-CBFB-4C47-BFDE-CBD20C94EED6.png)
