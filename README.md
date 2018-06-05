@@ -9,7 +9,7 @@
 
 本篇文章花费2W+的文字，详细分析了市面上现有的组件化方案，以及对组件化架构展开了详细的讨论，并且给出了我公司项目的组件化方案。问了方便大家阅读，我将简书博客中组件化架构的文章，导出为一份PDF。
 
-本篇文章总字数2W+，写技术文章不容易，希望各位能帮忙点个Star，谢谢！
+本篇文章为组件化架构，文章总字数2W+。写技术文章不容易，希望各位能帮忙点个Star，谢谢！
 
 ![组件化架构PDF目录](https://github.com/DeveloperErenLiu/ComponentArchitectureBook/blob/master/4F0D25D5-CBFB-4C47-BFDE-CBD20C94EED6.png)
 
